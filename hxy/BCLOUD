@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -x -m baidu/hexy/dingzw -c "cd baidu/hexy/dingzw && mkdir output && cp BCLOUD ./output/" -u ./
