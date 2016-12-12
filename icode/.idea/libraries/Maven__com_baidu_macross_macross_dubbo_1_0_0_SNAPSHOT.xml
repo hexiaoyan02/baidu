@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baidu.macross:macross-dubbo:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/iit/maven/jar/com/baidu/macross/macross-dubbo/1.0.0-SNAPSHOT/macross-dubbo-1.0.0-20161028.035734-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/iit/maven/jar/com/baidu/macross/macross-dubbo/1.0.0-SNAPSHOT/macross-dubbo-1.0.0-20161028.035734-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/iit/maven/jar/com/baidu/macross/macross-dubbo/1.0.0-SNAPSHOT/macross-dubbo-1.0.0-20161028.035734-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

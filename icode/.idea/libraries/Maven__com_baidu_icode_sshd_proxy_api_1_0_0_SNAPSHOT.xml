@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baidu.icode:sshd-proxy-api:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/iit/maven/jar/com/baidu/icode/sshd-proxy-api/1.0.0-SNAPSHOT/sshd-proxy-api-1.0.0-20161123.031200-219.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/iit/maven/jar/com/baidu/icode/sshd-proxy-api/1.0.0-SNAPSHOT/sshd-proxy-api-1.0.0-20161123.031200-219-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/iit/maven/jar/com/baidu/icode/sshd-proxy-api/1.0.0-SNAPSHOT/sshd-proxy-api-1.0.0-20161123.031200-219-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
